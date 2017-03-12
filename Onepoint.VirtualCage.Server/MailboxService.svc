@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Onepoint.VirtualCage.Server.MailboxService" CodeBehind="MailboxService.svc.cs" %>
