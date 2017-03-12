@@ -62,7 +62,9 @@ Elles communiquent via un pont réseau.
 + Framework
 
 Hololens => Application en Unity 3D 5.5.2 (Target UWP) avec Holotoolkit, NGUI, Playmaker, ShaderForge et une librairie a nous pour la gestion du Gaze.
+
 Gear VR => Application en Unity 3D 5.5.2 (Target Android) avec OVR, NGUI, Playmaker, ShaderForge et une librairie a nous pour la gestion du Gaze.
+
 Server => .Net WCF 4.6.2 avec un endpoint Http REST.
 
 -------------------------------------------------------------------
