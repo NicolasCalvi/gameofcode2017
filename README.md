@@ -4,8 +4,11 @@ https://www.groupeonepoint.com/
 + Equipe
 
 Nicolas Calvi / Consultant Innovation, Expert NUI / Microsoft MVP Windows Development
+
 Pierrick Filiatrault / Consultant Sénior
+
 Anaïs Neveux / Stagiaire Réalité Mixte
+
 Simon Besga / Stagiaire Réalité Virtuelle
 
 -------------------------------------------------------------------
